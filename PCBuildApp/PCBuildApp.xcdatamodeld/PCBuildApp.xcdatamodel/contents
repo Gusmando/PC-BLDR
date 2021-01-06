@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19F96" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Builds" representedClassName=".Builds" syncable="YES">
+        <attribute name="cas" optional="YES" attributeType="String"/>
+        <attribute name="comp" optional="YES" attributeType="String"/>
+        <attribute name="cpu" optional="YES" attributeType="String"/>
+        <attribute name="desc" optional="YES" attributeType="String"/>
+        <attribute name="graph" optional="YES" attributeType="String"/>
+        <attribute name="mem" optional="YES" attributeType="String"/>
+        <attribute name="moth" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="os" optional="YES" attributeType="String"/>
+        <attribute name="pic" optional="YES" attributeType="Binary"/>
+        <attribute name="psu" optional="YES" attributeType="String"/>
+        <attribute name="stor" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Builds" positionX="-45" positionY="0" width="128" height="223"/>
+    </elements>
+</model>

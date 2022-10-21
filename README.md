@@ -1,4 +1,4 @@
-# ![](https://github.com/Gusmando/PC-BLDR/blob/master/bldrLogoHelv.png)
+## ![](https://github.com/Gusmando/PC-BLDR/blob/master/bldrLogoHelv.png)
 
 PC BLDR is an ios application developed in Swift which makes it easy to create lists and keep track of Computer Builds, while also providing other features such as displaying part deals and nearby computer hardware locations.
 

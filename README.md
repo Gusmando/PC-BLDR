@@ -4,6 +4,11 @@ PC BLDR is an ios application developed in Swift which makes it easy to create l
 
 ### Screenshots
 
+Build List             |  Build Deals
+:-------------------------:|:-------------------------:
+![](![image](https://user-images.githubusercontent.com/44911478/197088051-41f90875-820d-46e8-9865-735e1b2c5f13.png)
+)  |  ![](![image](https://user-images.githubusercontent.com/44911478/197088069-04b712bb-a2b0-4614-8343-eefae4f4b32c.png))
+
 ### Tools and Attributions
 
 - The app was entirely developed in Swift utilizing storyboard in [Xcode](https://developer.apple.com/xcode/)
